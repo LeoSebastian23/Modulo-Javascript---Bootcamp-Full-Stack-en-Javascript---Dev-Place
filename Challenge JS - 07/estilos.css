@@ -1,0 +1,42 @@
+body {
+    padding: 10px;
+    background: linear-gradient(225deg, #36351f 0, #2f311e 8.33%, #282c1c 16.67%, #202519 25%, #191d15 33.33%, #10140f 41.67%, #030403 50%, #000000 58.33%, #000000 66.67%, #000000 75%, #000000 83.33%, #000000 91.67%, #000000 100%);
+}
+
+.ejercicio {
+    width: auto;
+    height: 500px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    color: aliceblue;
+    margin: 20px;
+}
+    
+h3 {
+    font-size: xx-large;
+    text-align: center;
+    margin: 10px;
+}
+
+.titulo {
+    margin:20px;
+    padding: 5px;
+    font-size: x-large;
+}
+
+#cuerpoEjercicios {
+    width: 25%;
+    height: 200px;
+}
+ .rta{
+    margin:20px;
+ }
+
+
+#input {
+    margin: 5px !important;
+    padding: 5px !important;
+}
