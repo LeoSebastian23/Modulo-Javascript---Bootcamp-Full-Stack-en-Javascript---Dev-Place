@@ -1,0 +1,36 @@
+body{
+    padding: 10px;
+    background-image: radial-gradient(circle at 100% 0%, #bfe79c 0, #afe59c 10%, #9de39d 20%, #89e09f 30%, #72dca1 40%, #55d8a4 50%, #28d4a8 60%, #00cfae 70%, #00cbb5 80%, #00c7bd 90%, #00c4c6 100%);
+}
+.ejercicio{
+    top: 50%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content:space-around;
+    
+    color: aliceblue;
+}
+h3{
+    font-size: xx-large;
+    text-align: center;
+}
+.titulo{
+    margin: 5px;
+    padding: 5px;
+    font-size: x-large;
+}
+#ejercicio1{
+    width: 25%;
+    height: 200px;
+}
+
+#ejercicio2{
+    width: 25%;
+    height: 200px;
+}
+
+#ejercicio3{
+    width: 25%;
+    height: 200px;
+}
